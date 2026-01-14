@@ -19,5 +19,5 @@ Pogosti env spremenljivke
 - `SPRING_DATASOURCE_URL` — JDBC povezava na `user_db`.
 - `SPRING_KAFKA_BOOTSTRAP_SERVERS` — Kafka bootstrap server.
 
-Kje iskati konfiguracijo
+Konfiguracija
 - `src/main/resources/application.yml` ali `application.properties`
